@@ -18,7 +18,7 @@
   		<modelmapper>2.3.0</modelmapper>
   		<mysql>8.0.16</mysql>
   		<sitemesh.version>2.4.2</sitemesh.version>
-  		<jackson>2.6.3</jackson>
+  		<jackson>2.10.2</jackson>
   </properties>
   
   <dependencies>
