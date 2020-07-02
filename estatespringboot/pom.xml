@@ -8,7 +8,7 @@
 
   <properties>
   	<java.version>1.8</java.version>
-  	<mysql>8.0.13</mysql>
+  	<mysql>8.0.16</mysql>
   	<modelmapper>2.3.0</modelmapper>
   </properties>
   
